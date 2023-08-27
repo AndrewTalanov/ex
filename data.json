@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Клиент 1",
+        "posts": [
+            {
+                "id": 1,
+                "image": "link1",
+                "title": "Первая фиговина",
+                "description": "Описание 1",
+                "button": "Да!"
+            },
+            {
+                "id": 2,
+                "image": "link",
+                "title": "Вторая фиговина",
+                "description": "Описание 2",
+                "button": "Нет."
+            },
+            {
+                "id": 3,
+                "image": "link",
+                "title": "Третья фиговина",
+                "description": "Описание 3",
+                "button": "Может быть"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Клиент 2",
+        "posts": [
+            {
+                "id": 1,
+                "image": "link1",
+                "title": "Первая фиговина 111 ",
+                "description": "Описание 1",
+                "button": "Да!"
+            },
+            {
+                "id": 2,
+                "image": "link",
+                "title": "Вторая фиговина 111",
+                "description": "Описание 2",
+                "button": "Нет."
+            },
+            {
+                "id": 3,
+                "image": "link",
+                "title": "Третья фиговина",
+                "description": "Описание 3",
+                "button": "Может быть"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Клиент 3",
+        "posts": [
+            {
+                "id": 1,
+                "image": "link1", 
+                "title": "Первая фиговина2 222",
+                "description": "Описание 1",
+                "button": "Да!"
+            },
+            {
+                "id": 2,
+                "image": "link",
+                "title": "Вторая фиговина 222",
+                "description": "Описание 2",
+                "button": "Нет."
+            },
+            {
+                "id": 3,
+                "image": "link",
+                "title": "Третья фиговина",
+                "description": "Описание 3",
+                "button": "Может быть"
+            }
+        ]
+    }
+]
